@@ -1,7 +1,7 @@
 # Call-Center-Dataset
 Getting insight into the data for a Call Centre
 
-
+![Dashboard](https://github.com/sanmyyung/Call-enter-Dataset/blob/main/Dashboard.JPG)
 ### Introduction
 This report presents an analysis of call center performance data using Power BI. The dashboard provides insights into key performance indicators (KPIs), call volume trends, and agent performance. The purpose is to help stakeholders understand operational efficiency, identify areas for improvement, and make data-driven decisions.
 
@@ -43,4 +43,4 @@ Based on the findings, the following recommendations are suggested:
 - Integration with CRM Data: Connect the dashboard with CRM systems to gain deeper insights into customer interactions and outcomes.
 
   ##
-  This report provides valuable insights into the call center's performance and offers actionable recommendations for improving operations and customer service. For more detailed analysis, please refer to the attached Power BI dashboard.
+  This report provides valuable insights into the call center's performance and offers actionable recommendations for improving operations and customer service. For more detailed analysis, please [here](https://app.powerbi.com/view?r=eyJrIjoiYzE5ZmU3MjEtOGFkMC00MWQ5LWJjNTYtNzZmNjhjYjkzNTQ4IiwidCI6IjU3ZjM5NjcyLTEyMjgtNDhmMy05MmQ5LTM5MmQyYWRhYzY5OCJ9)
