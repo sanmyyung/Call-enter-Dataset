@@ -43,4 +43,4 @@ Based on the findings, the following recommendations are suggested:
 - Integration with CRM Data: Connect the dashboard with CRM systems to gain deeper insights into customer interactions and outcomes.
 
   ##
-  This report provides valuable insights into the call center's performance and offers actionable recommendations for improving operations and customer service. For more detailed analysis, please [here](https://app.powerbi.com/view?r=eyJrIjoiYzE5ZmU3MjEtOGFkMC00MWQ5LWJjNTYtNzZmNjhjYjkzNTQ4IiwidCI6IjU3ZjM5NjcyLTEyMjgtNDhmMy05MmQ5LTM5MmQyYWRhYzY5OCJ9)
+  This report provides valuable insights into the call center's performance and offers actionable recommendations for improving operations and customer service. For more detailed analysis, please check [here](https://app.powerbi.com/view?r=eyJrIjoiYzE5ZmU3MjEtOGFkMC00MWQ5LWJjNTYtNzZmNjhjYjkzNTQ4IiwidCI6IjU3ZjM5NjcyLTEyMjgtNDhmMy05MmQ5LTM5MmQyYWRhYzY5OCJ9)
