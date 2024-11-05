@@ -1,4 +1,4 @@
-# Call-Center-Dataset
+# Call Center Dataset
 Getting insight into the data for a Call Centre
 
 ![Dashboard](https://github.com/sanmyyung/Call-enter-Dataset/blob/main/Dashboard.JPG)
